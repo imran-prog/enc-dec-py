@@ -83,7 +83,7 @@ def cipher_decrypt(ciphertext, key):
 
     return decrypted
 
-_text = " M eq Mqver Eofev. M pmziw mr Mwpeqefeh erh M aerx xs xs nsmr xli fmk kmerxw pmoi csy xs mrgviewi qc hexefewi sj orsapihki. M aerx xs ibgip amxl kviex kycw pmoi csy, erh qeoi qcwipj gsqjsvxefpi mr qeomrk qc hvieqw e viepmxc. M eq e Tcxlsr Hizipstiv erh ger hs qygl xlmrkw amxl mx pmoi Wgvetmrk, Aif erh Wsjxaevi hizipstqirx, QP, EM erh Hexe Wgmirgi. Fc xli aec M eq epws e Neze erh G/G++ hizipstiv fyx rsx sr qewxiv pizip cix. M ger gviexi Ettw, hs eyxsqexmsr sj Wcwxiq erh fymph Wqevx Ettpmergiw, erh ywmrk G++ M eq xvcmrk xs pievr hizipstmrk Wsjxaevi'w erh KYM'w. M wxevxih qc geviiv amxl Aif Hizipstqirx xlex'w alc, csy orsa alex M eq xvcmrk xs wec. Erh sri pewx xlmrk qc kviexiwx womppw sj epp mw xlex M eq kssh Tvsfpiq Wspziv erh kssh Wievgliv sj Mrxivrix almgl qeoiw qi alex M eq vmklx rsa. Sl xlmrk epws M eq epws kssh mr zivwmsr gsrxvsp wcwxiqw xss."
+_text = "Paste the encrypted code here"
 
 ciphertext = cipher_decrypt(_text, 4)
 
